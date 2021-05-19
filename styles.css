@@ -8,14 +8,23 @@ body {
 }
 
 .banner {
-    position: fixed;
     padding: 0 100px;
 }
 
-.banner > banner-img {
+.banner {
    
-    position: fixed;
+    background-image: url(../img/original.jpg);
+    height: 70% ;
+    position:relative;
+    background-size: cover;
     padding: 0 100px;
+}
+
+.inner-container {
+    color:teal;
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
 }
 .aboutme {
     text-align: center;
