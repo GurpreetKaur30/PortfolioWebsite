@@ -8,12 +8,8 @@ body {
 }
 
 .banner {
-    padding: 0 100px;
-}
-
-.banner {
    
-    background-image: url(../img/original.jpg);
+    background-image: url("img/original.jpg");
     height: 70% ;
     position:relative;
     background-size: cover;
