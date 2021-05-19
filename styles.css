@@ -1,20 +1,21 @@
 body {
     margin: 0;
-    background:khaki;
+    background-image: url("img/original.jpg") center; 
     text-align: center;
     padding-left: 30px;
     padding-right: 30px;
+    font-family:'Lucida Sans';
 }
 
 .banner {
     position: fixed;
     margin: auto;
     padding: 30px 0;
-    background: url("/img/original.jpg");
+
 }
 
 .aboutme {
     text-align: center;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
 }
