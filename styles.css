@@ -1,12 +1,22 @@
 body {
     margin: 0;
-    background-image: url("img/original.jpg") center; 
+    background:wheat;
     text-align: center;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
     font-family:'Lucida Sans';
 }
 
+.banner {
+    position: fixed;
+    padding: 0 100px;
+}
+
+.banner > banner-img {
+   
+    position: fixed;
+    padding: 0 100px;
+}
 .aboutme {
     text-align: center;
     padding-left: 70px;
