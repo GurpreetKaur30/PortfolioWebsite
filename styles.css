@@ -11,5 +11,6 @@ body {
 
 .banner > banner-image {
     width: 100%;
-    display: block;
+    height: 50%;
+    display:block;
 }
