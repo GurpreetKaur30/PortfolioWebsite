@@ -1,16 +1,16 @@
 body {
     margin: 0;
-    background: lemonchiffon;
+    background:lightgoldenrodyellow;
     text-align: center;
 }
 
 .banner {
-    width: 100%;
+    width: 50%;
     height: 50%;
 }
 
 .banner > banner-image {
-    width: 100%;
+    width: 50%;
     height: 50%;
     
 }
