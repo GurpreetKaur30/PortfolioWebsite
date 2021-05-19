@@ -7,13 +7,6 @@ body {
     font-family:'Lucida Sans';
 }
 
-.banner {
-    position: fixed;
-    margin: auto;
-    padding: 30px 0;
-
-}
-
 .aboutme {
     text-align: center;
     padding-left: 70px;
