@@ -10,7 +10,7 @@ body {
     background-image: url("img/original.jpg");
     height: 50% ;
     position:fixed;
-    background-size:inherit;
+    background-size: cover;
     
 }
 
