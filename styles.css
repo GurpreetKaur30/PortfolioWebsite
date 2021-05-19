@@ -9,7 +9,7 @@ body {
 
 .banner {
    
-    background-image: url("img/original.jpg");
+    background-color:tomato;
     height: 70% ;
     position:relative;
     background-size: cover;
