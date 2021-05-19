@@ -3,3 +3,13 @@ body {
     background: yellow;
     text-align: center;
 }
+
+.banner {
+    width: 100%;
+    display: block;
+}
+
+.banner > banner-image {
+    width: 100%;
+    display: block;
+}
