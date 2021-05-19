@@ -1,19 +1,17 @@
 body {
     margin: 0;
-    background:wheat;
+    background: white;
     text-align: center;
-    padding-left: 100px;
-    padding-right: 100px;
     font-family:'Lucida Sans';
 }
 
 .banner {
    
-    background-color:tomato;
-    height: 70% ;
+    background-image: url("img/original.jpg");
+    height: 50% ;
     position:relative;
     background-size: cover;
-    padding: 0 100px;
+    
 }
 
 .inner-container {
@@ -21,15 +19,16 @@ body {
     margin-top: 100px;
     width: 100%;
     text-align: center;
+    padding: 0 100px;
 }
 .aboutme {
     text-align: center;
-    padding-left: 70px;
-    padding-right: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .workexp {
     text-align: center;
-    padding-left: 70px;
-    padding-right: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
