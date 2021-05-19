@@ -6,11 +6,11 @@ body {
     padding-right: 30px;
 }
 
-.navbar {
+.banner {
     position: fixed;
     margin: auto;
     padding: 30px 0;
-    background: url("img/original.jpg");
+    background: url("/img/original.jpg");
 }
 
 .aboutme {
