@@ -4,12 +4,18 @@ body {
     text-align: center;
 }
 
+.navbar {
+    position: fixed;
+    margin: auto;
+}
 .banner {
+    position: fixed;
     width: 50%;
     height: 50%;
 }
 
 .banner > banner-image {
+    position:fixed;
     width: 50%;
     height: 50%;
     
