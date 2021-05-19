@@ -7,16 +7,8 @@ body {
 .navbar {
     position: fixed;
     margin: auto;
-}
-.banner {
-    position: fixed;
-    width: 50%;
-    height: 50%;
+    padding: 30px 0;
+    background-image: url("/img/original.jpg");
 }
 
-.banner > banner-image {
-    position:fixed;
-    width: 50%;
-    height: 50%;
-    
-}
+
