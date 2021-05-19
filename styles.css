@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-image: url("/img/original.jpg") center; 
+    background-image: url("img/original.jpg") center; 
     text-align: center;
     padding-left: 30px;
     padding-right: 30px;
