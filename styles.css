@@ -9,17 +9,17 @@ body {
    
     background-image: url("img/original.jpg");
     height: 50% ;
-    position:relative;
-    background-size: cover;
+    position:fixed;
+    background-size:inherit;
     
 }
 
 .inner-container {
-    color:teal;
+    color:black;
     margin-top: 100px;
     width: 100%;
-    text-align: center;
-    padding: 0 100px;
+    text-align:left;
+    font-size: large;
 }
 .aboutme {
     text-align: center;
