@@ -31,7 +31,7 @@ body {
   /* Create four equal columns that floats next to each other */
   .column {
     vertical-align: top;
-    /* display: inline-block; */
+    display: inline-block; 
     padding-left: 100px ;
     padding-right: 100px;
     text-align: center;
