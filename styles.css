@@ -53,8 +53,8 @@ body {
   
   .caption {
     display: block;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 250px;
+    padding-left: 250px;
 }
   /* Clear floats after rows 
   .row:after {
