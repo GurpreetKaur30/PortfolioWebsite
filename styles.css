@@ -40,7 +40,6 @@ body {
 
 .aboutmecontent-box {
     padding-top: 10px;
-    padding-bottom: 10px;
     border-radius:25px;
     background-color:white;
     color:black;
@@ -52,8 +51,8 @@ body {
 .profile-pic{
     float: left;
     border-radius:60% ;
-    height:280px;
-    width: 270px;
+    height:250px;
+    width: 250px;
     padding-top: 50px;
         
 }
