@@ -32,6 +32,12 @@ body {
     justify-content: space-between;
 }
 
+.item-data {
+    width: 30%;
+    height: 30%;
+    display: flex;
+}
+
 .workexp {
     text-align: center;
     padding-left: 100px;
