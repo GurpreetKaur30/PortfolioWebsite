@@ -32,8 +32,6 @@ body {
   .column {
     vertical-align: top;
     display: inline-block; 
-    padding-left: 100px ;
-    padding-right: 100px;
     text-align: center;
   }
   
