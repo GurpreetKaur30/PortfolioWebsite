@@ -7,7 +7,8 @@ body {
 
 .banner {
    
-    background-image: url("img/heading.jpg") center fixed ;
+  /*  background-image: url("img/heading.jpg") center fixed ; */
+    background-color: yellowgreen;
     height: 50% ;
     position:relative;
     background-size: cover;
@@ -23,7 +24,7 @@ body {
 }
 .aboutme-box {
     width:600px;
-    height:400px;
+    height: 350px;
     background-color: lightsteelblue;
     padding:40px;
     color:midnightblue;
@@ -53,6 +54,20 @@ body {
     display: block;
     padding-right: 250px;
     padding-left: 250px;
+}
+
+.skills-box {
+
+    width:600px;
+    height:500px;
+    background-color: lightsteelblue;
+    padding:40px;
+    color:midnightblue;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+
 }
   /* Clear floats after rows 
   .row:after {
