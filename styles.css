@@ -37,6 +37,8 @@ body {
   
   .caption {
     display: block;
+    padding-right: 100px;
+    padding-left: 100px;
 }
   /* Clear floats after rows 
   .row:after {
