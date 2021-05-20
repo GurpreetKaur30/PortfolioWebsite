@@ -27,10 +27,28 @@ body {
     padding-right: 100px;
 }
 
-.skills {
-    display:flex;
-    justify-content: space-between;
-}
+.row {
+    margin: 8px -16px;
+  }
+  
+  /* Add padding BETWEEN each column (if you want) */
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+  
+  /* Create four equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 25%;
+  }
+  
+  /* Clear floats after rows */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
 .item-data {
     width: 30%;
