@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
     
     background: white;
@@ -7,7 +11,7 @@ body {
 }
 
 .banner {
-  box-sizing: border-box;
+  
    background-image: url("img/banner.jpg") ;
     /* background-color:lightsteelblue; */
     height: 50%;
@@ -21,7 +25,7 @@ body {
 }
 
 .inner-container {
-  box-sizing: border-box;
+  
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
   color: white;
