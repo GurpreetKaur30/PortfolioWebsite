@@ -22,6 +22,8 @@ body {
     text-align: left;
     
 }
+
+/* About Me Section*/
 .aboutme-box {
     border-radius:25px;
     width:900px;
@@ -54,7 +56,7 @@ body {
 }
 
     
-  /* Create four equal columns that floats next to each other */
+  /* Skills Section */
   .column {
     display: flex;
     vertical-align: top;
@@ -66,13 +68,15 @@ body {
   
   .caption {
     display: block;
+    justify-content:center;
+    align-items: center;
    
 }
 
 .skills-box {
     width:900px;
     height:800px;
-    background-color:white;
+    background-color:lightsteelblue;
     padding:10px;
     color:midnightblue;
     text-align: center;
@@ -88,6 +92,7 @@ body {
   }
 */
 
+/*Work Experience Section */
 .workexp {
     text-align: center;
     padding-left: 100px;
