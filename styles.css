@@ -14,7 +14,7 @@ body {
   
    background-image: url("img/banner.jpg") ;
     /* background-color:lightsteelblue; */
-    height: 70%;
+    height: 90%;
     filter: blur(8px);
    -webkit-filter: blur(8px);
     background-position: center;
