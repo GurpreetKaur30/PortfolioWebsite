@@ -52,8 +52,7 @@ body {
   
   .caption {
     display: block;
-    padding-right: 250px;
-    padding-left: 250px;
+   
 }
 
 .skills-box {
@@ -63,6 +62,9 @@ body {
     background-color: lightsteelblue;
     padding:20px;
     color:midnightblue;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
    
 }
   /* Clear floats after rows 
