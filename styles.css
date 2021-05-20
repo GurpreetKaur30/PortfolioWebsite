@@ -7,7 +7,7 @@ body {
 
 .banner {
    
-    background-image: url("img/heading.jpg") fixed ;
+    background-image: url("img/heading.jpg") center fixed ;
     height: 50% ;
     position:relative;
     background-size: cover;
@@ -23,7 +23,7 @@ body {
 }
 .aboutme-box {
     width:450px;
-    height:700px;
+    height:400px;
     background-color: lightsteelblue;
     padding:40px;
     color:midnightblue;
