@@ -10,7 +10,7 @@ body {
    
    background-image: url("img/banner.jpg") ;
     /* background-color:lightsteelblue; */
-    height: 50%;
+    height: 70%;
     position:relative;
     background-size: cover;
     
@@ -29,7 +29,7 @@ body {
     border-radius:25px;
     width:900px;
     height: 350px;
-    background-color: lightsteelblue;
+    background-color:black;
     padding:20px;
     color:midnightblue;
     text-align: center;
@@ -41,7 +41,7 @@ body {
 .aboutmecontent-box {
     border-radius:25px;
     background-color:white;
-    color:midnightblue;
+    color:black;
     text-align: center;
     margin: 0 auto;
     margin-top: 60px;
