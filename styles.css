@@ -12,7 +12,7 @@ body {
 
 .banner {
   
-   background-image: url("img/banner.jpg") ;
+   background-image: url("img/banner1.jpg") ;
     /* background-color:lightsteelblue; */
     height: 100%;
     filter: blur(8px);
@@ -47,7 +47,7 @@ body {
     border-radius:25px;
     width:900px;
     height: 350px;
-    background-color:black;
+    background-color:lightsteelblue;
     padding:20px;
     color:midnightblue;
     text-align: center;
