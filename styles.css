@@ -2,7 +2,8 @@ body {
     
     background: white;
     text-align: center;
-    font-family:'Lucida Sans';
+    font-family:'KoHo';
+    font-weight: 300;
 }
 
 .banner {
@@ -77,7 +78,7 @@ body {
     width:900px;
     height:800px;
     background-color:lightsteelblue;
-    padding:10px;
+    /* padding:10px; */
     color:midnightblue;
     text-align: center;
     margin: 0 auto;
