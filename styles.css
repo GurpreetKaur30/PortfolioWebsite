@@ -69,7 +69,7 @@ body {
 .profile-pic{
     float: left;
     border-radius:60% ;
-    height:250px;
+    height:290px;
     width: 250px;
     padding-top: 50px;
         
@@ -95,7 +95,7 @@ body {
 
 .skills-box {
     width:900px;
-    height:650px;
+    height:550px;
     background-color:lightsteelblue;
     /* padding:10px; */
     color:midnightblue;
