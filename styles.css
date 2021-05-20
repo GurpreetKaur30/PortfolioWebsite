@@ -22,7 +22,7 @@ body {
     
 }
 .aboutme-box {
-    width:450px;
+    width:600px;
     height:400px;
     background-color: lightsteelblue;
     padding:40px;
@@ -34,6 +34,7 @@ body {
 }
 
 .profile-pic{
+    float: left;
     border-radius: 50%;
     height:150px;
     width: 150px;
