@@ -34,6 +34,17 @@ body {
     
 }
 
+.aboutmecontent-box {
+    width:500px;
+    height: 280px;
+    background-color:white;
+    padding:20px;
+    color:midnightblue;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    
+}
 .profile-pic{
     float: left;
     border-radius:60% ;
