@@ -35,14 +35,12 @@ body {
 }
 
 .aboutmecontent-box {
-    width:500px;
-    height: 280px;
+    
     background-color:white;
-    padding-left: 300px;
     color:midnightblue;
     text-align: center;
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 70px;
     
 }
 .profile-pic{
@@ -60,6 +58,8 @@ body {
     vertical-align: top;
     display: inline-block;
     text-align: center;
+    justify-content:center;
+    align-items: center;
   }
   
   .caption {
