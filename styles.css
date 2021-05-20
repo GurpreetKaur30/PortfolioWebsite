@@ -8,8 +8,8 @@ body {
 .banner {
    
   /*  background-image: url("img/heading.jpg") center fixed ; */
-    background-color: yellowgreen;
-    height: 50% ;
+    background-color:teal;
+    height: 50%;
     position:relative;
     background-size: cover;
     
