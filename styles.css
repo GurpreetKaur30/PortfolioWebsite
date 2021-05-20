@@ -96,7 +96,7 @@ body {
 .skills-box {
     width:900px;
     height:550px;
-    background-color:lightsteelblue;
+ /*   background-color:lightsteelblue; */
     /* padding:10px; */
     color:midnightblue;
     text-align: center;
