@@ -100,20 +100,12 @@ body {
     margin: 0 auto;
     margin-top: 50px; 
 }
-  /* Clear floats after rows 
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-*/
 
 .projectbox{
 
   width:900px;
   height:550px;
   background-color:lightsteelblue; 
-/* padding:10px; */
   color:midnightblue;
   text-align: center;
   margin: 0 auto;
@@ -132,16 +124,12 @@ body {
     width: 40%;
     padding-top: 50px;
 }
-.projecttext {
-    padding-left: 20px;
-    text-align: center;
-}
+
 
 .workbox{
   width: 900px;
   height:550px;
   background-color:rgb(255, 255, 255); 
-/* padding:10px; */
   color:midnightblue;
   text-align: center;
   margin: 0 auto;
