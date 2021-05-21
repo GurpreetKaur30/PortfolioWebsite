@@ -52,8 +52,7 @@ body {
     color:midnightblue;
     text-align: center;
     margin: 0 auto;
-    margin-top: 35px;
-    
+    margin-top: 35px;   
 }
 
 .aboutmecontent-box {
@@ -62,8 +61,7 @@ body {
     color:black;
     text-align: center;
     margin: 0 auto;
-    margin-top: 60px;
-    
+    margin-top: 60px; 
 }
 
 .profile-pic{
@@ -74,10 +72,9 @@ body {
     padding-top: 50px;
         
 }
-
     
   /* Skills Section */
-  .column {
+.column {
     display: flex;
     vertical-align: top;
     display: inline-block;
@@ -95,14 +92,13 @@ body {
 
 .skills-box {
     width:900px;
-    height:570px;
- /*   background-color:lightsteelblue; */
-    /* padding:10px; */
+    height:590px;
+ /* background-color:lightsteelblue; */
+ /* padding:10px; */
     color:midnightblue;
     text-align: center;
     margin: 0 auto;
-    margin-top: 50px;
-   
+    margin-top: 50px; 
 }
   /* Clear floats after rows 
   .row:after {
