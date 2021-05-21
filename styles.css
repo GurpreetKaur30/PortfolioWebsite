@@ -128,8 +128,6 @@ body {
 .projectimage {
     float: left;
     border-radius:60% ;
-    height:100px;
-    width: 100px;
     padding-top: 50px;
 }
 .projecttext {
