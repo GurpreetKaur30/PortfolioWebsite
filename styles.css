@@ -121,6 +121,22 @@ body {
 
 }
 
+.project {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+img {
+  max-width: 100%
+}
+.projectimage {
+  flex-basis: 40%;
+  border-radius:25px;
+}
+.projecttext {
+  padding-left: 20px;
+}
+
 .workbox{
   width: 900px;
   height:550px;
