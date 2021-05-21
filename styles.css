@@ -127,10 +127,10 @@ body {
   justify-content: center
 }
 img {
-  max-width: 100%;
+  max-width: 40%;
 }
 .projectimage {
-  flex-basis: 120%;
+  flex-basis: 60%;
   border-radius:25px;
 }
 .projecttext {
