@@ -108,6 +108,30 @@ body {
   }
 */
 
+.projectbox{
+
+  width:900px;
+  height:550px;
+  background-color:lightsteelblue; 
+/* padding:10px; */
+  color:midnightblue;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px; 
+
+}
+
+.workbox{
+  width:900px;
+  height:550px;
+/* background-color:lightsteelblue; */
+/* padding:10px; */
+  color:midnightblue;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px; 
+
+}
 /*Work Experience Section */
 .workexp {
     text-align: center;
