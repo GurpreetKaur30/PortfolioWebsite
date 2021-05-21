@@ -122,9 +122,9 @@ body {
 }
 
 .workbox{
-  width: 100%;
+  width: 1000px;
   height:550px;
-background-color:rgb(129, 172, 228); 
+  background-color:rgb(129, 172, 228); 
 /* padding:10px; */
   color:midnightblue;
   text-align: center;
