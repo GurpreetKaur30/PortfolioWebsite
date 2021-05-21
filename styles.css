@@ -113,14 +113,11 @@ body {
 
 }
 
-.project {
-  text-align: center;
-}
-
 .projectimage {
     float: left;
     height:30% ;
     width: 40%;
+    padding: 0 10px 0 0;
 }
 
 
