@@ -120,16 +120,15 @@ body {
   flex-direction: column;
   width: 350px;
   height: 450px;
-  border: 1px solid black;
   align-items: center;
   padding:10px;
-  background-color: cornsilk;
+  background-color:rgb(255, 255, 255);
 
 }
 
 .projbox img{
-  width: 80px;
-  height: 80px;
+  width: 250px;
+  height: 200px;
 }
 
 
