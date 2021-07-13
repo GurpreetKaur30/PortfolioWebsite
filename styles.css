@@ -115,7 +115,7 @@ body {
 }
 
 .projbox{
-
+  border-radius: 25px;
   display: flex;
   flex-direction: column;
   width: 350px;
