@@ -11,7 +11,7 @@ body {
 }
 
 .banner {
-  
+  display: flex;
    background-image: url("img/banner1.jpg") ;
     /* background-color:lightsteelblue; */
     height: 100%;
